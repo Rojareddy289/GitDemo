@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2020-03-10T13:05:29 IST" finished-at="2020-03-10T13:05:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2020-03-10T13:05:29 IST" finished-at="2020-03-10T13:05:29 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IoSAPP()[pri:0, instance:qaclickacademy.AppiumTest@71423665]" name="IoSAPP" duration-ms="0" started-at="2020-03-10T13:05:29 IST" finished-at="2020-03-10T13:05:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IoSAPP -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@71423665]" name="NativeAppAndroid" duration-ms="0" started-at="2020-03-10T13:05:29 IST" finished-at="2020-03-10T13:05:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@2ac273d3]" name="BrowserAutomation" duration-ms="7" started-at="2020-03-10T13:05:29 IST" finished-at="2020-03-10T13:05:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@2ac273d3]" name="elementsUi" duration-ms="0" started-at="2020-03-10T13:05:29 IST" finished-at="2020-03-10T13:05:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
